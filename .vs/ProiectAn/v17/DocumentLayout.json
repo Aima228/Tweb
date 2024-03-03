@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Proiect an T.web\\ProiectAn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0119CC7A-4556-43FA-AF39-33E664878C03}|ProiectAn\\ProiectAn.csproj|d:\\projects\\proiect an t.web\\proiectan\\proiectan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0119CC7A-4556-43FA-AF39-33E664878C03}|ProiectAn\\ProiectAn.csproj|solutionrelative:proiectan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0119CC7A-4556-43FA-AF39-33E664878C03}|ProiectAn\\ProiectAn.csproj|d:\\projects\\proiect an t.web\\proiectan\\proiectan\\views\\_layoutpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0119CC7A-4556-43FA-AF39-33E664878C03}|ProiectAn\\ProiectAn.csproj|solutionrelative:proiectan\\views\\_layoutpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0119CC7A-4556-43FA-AF39-33E664878C03}|ProiectAn\\ProiectAn.csproj|d:\\projects\\proiect an t.web\\proiectan\\proiectan\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0119CC7A-4556-43FA-AF39-33E664878C03}|ProiectAn\\ProiectAn.csproj|solutionrelative:proiectan\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0119CC7A-4556-43FA-AF39-33E664878C03}|ProiectAn\\ProiectAn.csproj|d:\\projects\\proiect an t.web\\proiectan\\proiectan\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0119CC7A-4556-43FA-AF39-33E664878C03}|ProiectAn\\ProiectAn.csproj|solutionrelative:proiectan\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0119CC7A-4556-43FA-AF39-33E664878C03}|ProiectAn\\ProiectAn.csproj|d:\\projects\\proiect an t.web\\proiectan\\proiectan\\views\\home\\people.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0119CC7A-4556-43FA-AF39-33E664878C03}|ProiectAn\\ProiectAn.csproj|solutionrelative:proiectan\\views\\home\\people.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0119CC7A-4556-43FA-AF39-33E664878C03}|ProiectAn\\ProiectAn.csproj|d:\\projects\\proiect an t.web\\proiectan\\proiectan\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0119CC7A-4556-43FA-AF39-33E664878C03}|ProiectAn\\ProiectAn.csproj|solutionrelative:proiectan\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0119CC7A-4556-43FA-AF39-33E664878C03}|ProiectAn\\ProiectAn.csproj|d:\\projects\\proiect an t.web\\proiectan\\proiectan\\views\\home\\cards.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0119CC7A-4556-43FA-AF39-33E664878C03}|ProiectAn\\ProiectAn.csproj|solutionrelative:proiectan\\views\\home\\cards.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0119CC7A-4556-43FA-AF39-33E664878C03}|ProiectAn\\ProiectAn.csproj|D:\\Projects\\Proiect an T.web\\ProiectAn\\proiectan\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0119CC7A-4556-43FA-AF39-33E664878C03}|ProiectAn\\ProiectAn.csproj|solutionrelative:proiectan\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\Proiect an T.web\\ProiectAn\\ProiectAn\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProiectAn\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\Proiect an T.web\\ProiectAn\\ProiectAn\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProiectAn\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T22:56:12.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LayoutPage1.cshtml",
+              "DocumentMoniker": "D:\\Projects\\Proiect an T.web\\ProiectAn\\ProiectAn\\Views\\_LayoutPage1.cshtml",
+              "RelativeDocumentMoniker": "ProiectAn\\Views\\_LayoutPage1.cshtml",
+              "ToolTip": "D:\\Projects\\Proiect an T.web\\ProiectAn\\ProiectAn\\Views\\_LayoutPage1.cshtml",
+              "RelativeToolTip": "ProiectAn\\Views\\_LayoutPage1.cshtml",
+              "ViewState": "AQIAANsAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T22:29:41.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\Projects\\Proiect an T.web\\ProiectAn\\ProiectAn\\Global.asax.cs",
+              "RelativeDocumentMoniker": "ProiectAn\\Global.asax.cs",
+              "ToolTip": "D:\\Projects\\Proiect an T.web\\ProiectAn\\ProiectAn\\Global.asax.cs",
+              "RelativeToolTip": "ProiectAn\\Global.asax.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvxMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T22:27:38.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "D:\\Projects\\Proiect an T.web\\ProiectAn\\ProiectAn\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "ProiectAn\\App_Start\\BundleConfig.cs",
+              "ToolTip": "D:\\Projects\\Proiect an T.web\\ProiectAn\\ProiectAn\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "ProiectAn\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T22:16:21.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\Projects\\Proiect an T.web\\ProiectAn\\ProiectAn\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "ProiectAn\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\Projects\\Proiect an T.web\\ProiectAn\\ProiectAn\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "ProiectAn\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T22:13:31.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "People.cshtml",
+              "DocumentMoniker": "D:\\Projects\\Proiect an T.web\\ProiectAn\\ProiectAn\\Views\\Home\\People.cshtml",
+              "RelativeDocumentMoniker": "ProiectAn\\Views\\Home\\People.cshtml",
+              "ToolTip": "D:\\Projects\\Proiect an T.web\\ProiectAn\\ProiectAn\\Views\\Home\\People.cshtml",
+              "RelativeToolTip": "ProiectAn\\Views\\Home\\People.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T22:05:17.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cards.cshtml",
+              "DocumentMoniker": "D:\\Projects\\Proiect an T.web\\ProiectAn\\ProiectAn\\Views\\Home\\Cards.cshtml",
+              "RelativeDocumentMoniker": "ProiectAn\\Views\\Home\\Cards.cshtml",
+              "ToolTip": "D:\\Projects\\Proiect an T.web\\ProiectAn\\ProiectAn\\Views\\Home\\Cards.cshtml",
+              "RelativeToolTip": "ProiectAn\\Views\\Home\\Cards.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T22:04:26.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Projects\\Proiect an T.web\\ProiectAn\\ProiectAn\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProiectAn\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Projects\\Proiect an T.web\\ProiectAn\\ProiectAn\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProiectAn\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T21:18:42.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
